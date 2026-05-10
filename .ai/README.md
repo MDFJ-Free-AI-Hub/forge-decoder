@@ -14,10 +14,10 @@ models/
 │ 
 └── others...
 
-# ⚠️ This project may take some time to complete. So please be patient if you want to support us.
+⚠️ This project may take some time to complete. So please be patient if you want to support us.
 
-# Today, October 5, 2026, is Mother's Day, so we wish all mothers a happy day.
+Today, October 5, 2026, is Mother's Day, so we wish all mothers a happy day.
 
-# MDFJ.
+MDFJ.
 
-## Copyright (C) 2026 MDFJ.
+Copyright (C) 2026 MDFJ.
