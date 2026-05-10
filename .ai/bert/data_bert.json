@@ -1,0 +1,9 @@
+{
+  "name": "bert",
+  "source": "huggingface",
+  "repo": "google-bert/bert-base-uncased",
+  "type": "text-embedding / text-classification",
+  "license": "apache-2.0",
+  "original_author": "Google Research",
+  "release_year": 2018
+}
