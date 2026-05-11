@@ -1,0 +1,9 @@
+{
+  "name": "stable-diffusion-xl-base-1.0",
+  "source": "huggingface",
+  "repo": "Stability-AI/generative-models",
+  "type": "generative-models",
+  "license": "MIT",
+  "original_author": "Stability AI",
+  "release_year": 2023
+}
