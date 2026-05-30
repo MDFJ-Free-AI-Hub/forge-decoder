@@ -1,0 +1,6 @@
+{
+  "model": "gpt-2",
+  "author": "OpenAI",
+  "license": "MIT",
+  "type": "decoder"
+}
