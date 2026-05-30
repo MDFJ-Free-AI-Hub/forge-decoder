@@ -1,6 +1,7 @@
 {
-  "model": "phi3",
+  "model": "phi3 Mini 4k Instruct",
   "author": "Microsoft",
+  "family": "phi3",
   "license": "MIT",
   "type": "decoder"
 }
