@@ -1,0 +1,8 @@
+{
+  "model": "deepseekv3",
+  "author": "DeepSeek-AI",
+  "licenses",
+  "license": "MIT",
+  "license": "Deepseek License",
+  "type": "decoder"
+}
