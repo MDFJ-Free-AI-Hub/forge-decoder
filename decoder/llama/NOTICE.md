@@ -5,3 +5,5 @@ Resources:
 - https://github.com/meta-llama
 
 ⚠️ To use LLaMA, you must accept Meta's terms of service.
+
+# Code written by Meta Llama.
