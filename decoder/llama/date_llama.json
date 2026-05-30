@@ -1,0 +1,6 @@
+{
+  "model": "llama",
+  "author": "Meta",
+  "license": "LLaMA Community License",
+  "type": "decoder"
+}
