@@ -1,0 +1,6 @@
+{
+  "model": "mistral-7B",
+  "author": "MistralAI",
+  "license": "Apache-2.0",
+  "type": "decoder"
+}
