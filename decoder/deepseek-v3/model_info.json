@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-v3",
+  "author": "deepseek-ai",
+  "task": "Text Generation",
+  "framework": "Other",
+  "license": "MIT",
+  "tags": [],
+  "architecture": "decoder",
+  "platform": "Aiva AI Forge",
+  "created_at": "2026-05-31T22:10:45.946Z"
+}
