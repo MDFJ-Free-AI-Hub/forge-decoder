@@ -20,19 +20,13 @@ tags:
 
 ## Description
 
-GPT-2 Medium is a 345M parameter Transformer-based language model trained on WebText. It generates coherent and fluent text across a wide range of topics.
+GPT-2 Medium is a 345M parameter Transformer-based language model trained on WebText.
 
 ## Model Card
 
 # GPT-2 Medium
 
-GPT-2 Medium (345M) by OpenAI, trained on ~40GB of internet text.
-
-## Usage
-```python
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
-model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
-```
+GPT-2 Medium (345M) by OpenAI.
 
 
 ---
